@@ -9,7 +9,7 @@ step 2: Create a database in PHPmyAdmin , named "otaku-shop"
 
 step 3: Import the sql databse into the database 
 
-step 4: Open the code in your code editor 
+step 4: Copy the code files into xampp --> htdocs 
 
 step 5: Open xampp and START MySQL and Apache server 
 
